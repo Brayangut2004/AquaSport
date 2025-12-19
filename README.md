@@ -4,7 +4,7 @@ Aplicación de escritorio desarrollada en Java utilizando Java Swing para la int
 
 Este proyecto fue construido en el entorno Visual Studio Code y está diseñado para gestionar la información de alumnos, maestros, membresías, pagos y horarios de clase de manera eficiente.
 
-## Características principales
+## Funciones
 
 Registro, edición y eliminación de:
 * Alumnos
@@ -12,7 +12,7 @@ Registro, edición y eliminación de:
 * Membresías
 * Horarios
 
-Ademas de:
+## Caracteristicas
 * Interfaz gráfica creada con Java Swing
 * Consultas SQL usando MySQL como lenguaje de consulta
 * Base de datos embebida H2 (archivo local, sin servidores externos)
