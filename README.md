@@ -41,5 +41,4 @@ Entorno de desarrollo:
 3. Comprobar tener instalado:
    * Java 24 o superior
    * "Extension pack for Java" en Visual Studio Code
-4. Ejecutar la aplicacion
-   * Correr el archivo: com.aquasport.main
+4. Correr el archivo: src/main/java/com/aquasport/Main.java
