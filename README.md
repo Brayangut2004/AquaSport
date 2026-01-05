@@ -27,6 +27,7 @@ Backend:
 * H2 Database (modo embebido)
 
 Frontend:
+
 * Java Swing
 
 Base de datos:
@@ -34,6 +35,19 @@ Base de datos:
 
 Entorno de desarrollo:
 * Visual Studio Code
+
+## Capturas
+<img width="680" height="390" alt="Menu principal" src="https://github.com/user-attachments/assets/17daf0e1-c2f4-4619-a20f-3f4d907dae6f" />
+
+<img width="680" height="390" alt="Registro de alumnos" src="https://github.com/user-attachments/assets/bbfa5264-e085-4549-b4ae-6b69e46d8d34" />
+
+<img width="680" height="390" alt="Registro realizado exitosamente" src="https://github.com/user-attachments/assets/a774483c-8c16-46ec-a667-6847f5202e5e" />
+
+<img width="680" height="390" alt="Despliege de los registros realizados" src="https://github.com/user-attachments/assets/256daff4-c987-43fb-bdc6-00f562f26ed2" />
+
+<img width="680" height="390" alt="Eliminacion de un registro" src="https://github.com/user-attachments/assets/a0bb4b7c-01b8-47e2-8784-375bb01eb460" />
+
+<img width="680" height="390" alt="Menu de configuracion" src="https://github.com/user-attachments/assets/d8c72efa-6828-4f23-803b-ef28f47af15c" />
 
 ## Pasos para ejecutar el proyecto
 1. Clonar el repositorio
