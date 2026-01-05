@@ -42,3 +42,4 @@ Entorno de desarrollo:
    * Java 24 o superior
    * "Extension pack for Java" en Visual Studio Code
 4. Correr el archivo: src/main/java/com/aquasport/Main.java
+5. Ingresar el usuario: _user_ y la contraseña: _1234_
